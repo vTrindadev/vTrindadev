@@ -1,4 +1,4 @@
-### Olá, me chamo Victor Trindade 👋
+### Olá 👋
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vTrindadev&show_icons=true&theme=transparent" alt="Victor Trindade GitHub stats">
